@@ -6,7 +6,11 @@ These Terms of Service ("Terms") are a binding legal agreement between you and *
 
 ## 1. The Service
 
-Chizzl provides AI-generated physique estimates, workout and meal plans, and coaching. All output is generated automatically and provided for general informational and fitness purposes only.
+Chizzl is an automated software application that provides AI-generated physique estimates, workout and meal suggestions, and general fitness coaching content. All output is produced by automated algorithms and third-party AI models, not by a human, and is provided strictly for general informational and educational purposes only.
+
+Chizzl, and any individual or entity operating it, is not a licensed physician, dietitian, nutritionist, personal trainer, physical therapist, or other health, medical, or fitness professional, and does not hold itself out as one. Nothing in the Service constitutes medical, health, nutritional, or professional fitness advice, diagnosis, treatment, or a professional recommendation, and no coach-client, doctor-patient, or other professional relationship is created by your use of the Service. The Service is not a substitute for advice from a qualified professional who knows your individual circumstances.
+
+You are solely responsible for evaluating, and for the consequences of relying on, any output. Before acting on anything the Service provides — including beginning, changing, or stopping any exercise, diet, or nutrition program — you should consult a qualified professional. Physical activity carries inherent risks, including injury; you voluntarily assume all such risks and use the Service entirely at your own risk.
 
 ## 2. Not Medical Advice
 
