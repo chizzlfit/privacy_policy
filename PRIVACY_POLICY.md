@@ -90,6 +90,5 @@ We may update this Policy from time to time. Material changes will be indicated 
 
 ## 13. Contact Us
 
-Questions about this Policy or your data:
-**[OPERATOR LEGAL NAME]**
-Email: **newa6211@gmail.com**
+Questions about this Policy or your data
+Email: chizzlfit@gmail.com
